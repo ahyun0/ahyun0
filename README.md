@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=🍀%20AHyun's%20GitHub%20🍀%20&fontSize=40&fontColor=ffff&fontAlign=50" alt="header">
-</div>
+
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=🍀%20AHyun's%20GitHub%20🍀%20&fontSize=40&fontColor=ffff&fontAlign=50&align=center)
 
 <div align="center">
 <h3>🐥 Introduce </h3><br>
@@ -74,3 +73,5 @@
 ### ⭐️ GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=ahyun0&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff&align=50" alt="AHyun's GitHub stats">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahyun0">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
