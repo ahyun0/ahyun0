@@ -56,7 +56,7 @@
 ## 🤖 Project
 | Title | Dates | Notes | Etc |
 |:--------:|:-------:|:-------:|:-------:|
-| [Looper]( | `2025.04.01` - `2025.08.01` | 회의록 요약 및 자동 일정 생성 스마트 캘린더 | Kakao Tech Bootcamp 팀 프로젝트 참여 |
+| [Looper](https://github.com/100-hours-a-week/11-ellu-wiki) | `2025.04.01` - `2025.08.01` | 회의록 요약 및 자동 일정 생성 스마트 캘린더 | Kakao Tech Bootcamp 팀 프로젝트 참여 |
 | [사전 학습 모델 VGG16, MobileNetV2를 활용한 Vegetable Image 분류 모델 연구 보고서](https://github.com/ahyun0/personal-project_CNN-report) | `2025.03.18` - `2025.03.28` | CNN을 활용한 야채 이미지 분류 모델 성능 향상 | Kakao Tech Bootcamp 개인 프로젝트 참여 |
 | [ClothCast : CC](https://github.com/ahyun0/clothcast-ai) | `2025.02.26` - `2025.02.28` | 보유한 옷을 기반으로 원하는 분위기, 선택한 위치에 따른 날씨에 적절한 스타일링 추천 | Kakao Tech Bootcamp 해커톤 참여 |
 
