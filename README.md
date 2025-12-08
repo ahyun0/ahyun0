@@ -6,6 +6,7 @@
 안녕하세요! 🙌🏻 <br><br>“왜"에서 시작해 ”어떻게"로 완성하는 김아현입니다.<br>
 문제의 본질을 깊이 탐구하고, 아이디어를 구현하는 과정을 즐깁니다.<br>
 카카오테크부트캠프에서 생성형 AI과정을 수료하며 ML/DL지식을 습득하고, LLM 서비스를 구현하는 데 주력했습니다.<br>
+현재는 Speech AI 연구자로 성장하기 위해 인하대학교 Xvoice LAB에서 인턴을 진행중에 있습니다.<br>
 <br>
 <a href="https://www.notion.so/Ahyun-s-Portfolio-18228f286c77800aa0a8e0639d017cdd?source=copy_link" style="text-decoration:none;"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
 <a href="mailto:dkgus439@gmail.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
@@ -42,13 +43,15 @@
 ## 🎓 Education
 | Degree | Major | Institution | Dates | Notes |
 |:--------:|:-------:|:-------------:|:-------:|:-------:|
-| B.S.   | 사범교육대학 유아교육과 <br> Early Childhood Education Department | 동국대학교 <br> Dongguk University | `2018.03` - `2022.02` | GPA 3.78 / 4.5 |
+| M.S.   | 산업경영공학 <br> Industrial Engineering | 인하대학교 <br> Inha University | (예정)`2026.03` - ` ` | - |
+| B.A.   | 사범교육대학 유아교육과 <br> Early Childhood Education Department | 동국대학교 <br> Dongguk University | `2018.03` - `2022.02` | GPA 3.78 / 4.5 |
 
 <br>
 
 ## 👀 Experience
 | Title | Dates | Notes |
 |:--------:|:-------:|:-------:|
+| Research Intern | (진행중)`2025.11` - `2026.02` | Xvoice LAB, <br> Inha University |
 | Kakao Tech Bootcamp 2기 | `2025.01.20` - `2025.08.01` | 생성형 AI 과정 수료 |
 
 <br>
@@ -69,11 +72,6 @@
 | (주)디클랜 | `2023.03.06` - `2023.12.22` | 전략기획팀 주임 | 온라인 교육 콘텐츠 기획 및 제안 자료 제작 및 사업운영 PL |
 
 <br>
-
-## ⭐️ GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahyun0&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff&align=50" alt="AHyun's GitHub stats">&nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahyun0">
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
