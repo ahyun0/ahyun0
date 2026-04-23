@@ -43,7 +43,7 @@
 ## 🎓 Education
 | Degree | Major | Institution | Dates | Notes |
 |:--------:|:-------:|:-------------:|:-------:|:-------:|
-| M.S.   | 산업경영공학 <br> Industrial Engineering | 인하대학교 <br> Inha University | (예정)`2026.03` - ` ` | - |
+| M.S.   | 산업경영공학 <br> Industrial Engineering | 인하대학교 <br> Inha University | (진행중) `2026.03` - `2028.02` | - |
 | B.A.   | 사범교육대학 유아교육과 <br> Early Childhood Education Department | 동국대학교 <br> Dongguk University | `2018.03` - `2022.02` | GPA 3.78 / 4.5 |
 
 <br>
@@ -51,7 +51,7 @@
 ## 👀 Experience
 | Title | Dates | Notes |
 |:--------:|:-------:|:-------:|
-| Research Intern | (진행중)`2025.11` - `2026.02` | Xvoice LAB, <br> Inha University |
+| Research Intern | `2025.11` - `2026.02` | Xvoice LAB, <br> Inha University |
 | Kakao Tech Bootcamp 2기 | `2025.01.20` - `2025.08.01` | 생성형 AI 과정 수료 |
 
 <br>
