@@ -3,14 +3,10 @@
 
 <div align="center">
 <h3>🐥 Introduce </h3><br>
-안녕하세요! 🙌🏻 <br><br>“왜"에서 시작해 ”어떻게"로 완성하는 김아현입니다.<br>
-문제의 본질을 깊이 탐구하고, 아이디어를 구현하는 과정을 즐깁니다.<br>
-카카오테크부트캠프에서 생성형 AI과정을 수료하며 ML/DL지식을 습득하고, LLM 서비스를 구현하는 데 주력했습니다.<br>
-현재는 Speech AI 연구자로 성장하기 위해 인하대학교 Xvoice LAB에서 인턴을 진행중에 있습니다.<br>
+안녕하세요! 🙌🏻 Speech AI 연구자로 성장하기 위해 인하대학교 Voice AI LAB에서 석사과정을 진행중에 있습니다.<br>
 <br>
 <a href="https://www.notion.so/Ahyun-s-Portfolio-18228f286c77800aa0a8e0639d017cdd?source=copy_link" style="text-decoration:none;"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>&nbsp
-<a href="mailto:dkgus439@gmail.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
-<a href="mailto:dkgus439@gmail.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"></a>
+<a href="mailto:ahyuni@inha.deu.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
 
 </div>
 
